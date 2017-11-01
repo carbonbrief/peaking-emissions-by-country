@@ -273,7 +273,7 @@ function bubbleChart() {
     years.enter().append('text')
       .attr('class', 'year')
       .attr('x', function (d) { return yearsTitleX[d]; })
-      .attr('y', 70)
+      .attr('y', 30)
       .attr('text-anchor', 'middle')
       .text(function (d) { return d; });
   }

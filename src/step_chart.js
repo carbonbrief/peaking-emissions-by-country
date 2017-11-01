@@ -282,7 +282,7 @@ function transitionEnd () {
     .attr("x", (width/2.2))
     .attr("y", (70))
     .style("text-anchor", "start")
-    .text("A further 9 countries responsible");
+    .text("A further 8 countries responsible");
 
     svg.append("g")
     .attr("class", "annotation-text")
@@ -290,7 +290,7 @@ function transitionEnd () {
     .attr("x", (width/2.2))
     .attr("y", (100))
     .style("text-anchor", "start")
-    .text("for 28% of global emissions**");
+    .text("for 23% of global emissions**");
 
     svg.append("g")
     .attr("class", "annotation-text")
