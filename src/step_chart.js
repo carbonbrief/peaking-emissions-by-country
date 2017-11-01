@@ -243,7 +243,7 @@ var t = d3.transition()
 var annotationData = [
     {
         year: 2030,
-        value: 0.647
+        value: 0.598
     },
     {
         year: 2030,
