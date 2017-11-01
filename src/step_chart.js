@@ -67,7 +67,7 @@ var data2 =[
     },
     {
         year: 2035,
-        value: 0.647,
+        value: 0.598,
     },
 
 
