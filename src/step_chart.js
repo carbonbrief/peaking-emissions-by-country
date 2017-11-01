@@ -27,7 +27,7 @@ var data = [{
 },{
     year: 2025,
     label: 2030,
-    value: 0.647,
+    value: 0.598,
     countries: 200,
     type: "Will peak"
 }]
@@ -63,11 +63,11 @@ var data2 =[
     },
     {
         year: 2025,
-        value: 0.647,
+        value: 0.598,
     },
     {
         year: 2035,
-        value: 0.647,
+        value: 0.598,
     },
 
 
