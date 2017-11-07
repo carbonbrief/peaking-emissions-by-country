@@ -404,6 +404,12 @@ li {
   #subtitle {
     font-size: 14px;
   }
+  .container {
+    width: 88%;
+    margin-left: 3%;
+    margin-right: 9%; 
+    /* larger right margin to allow more space for tooltip */
+  }
 }
 
 @media (min-width: 640px) and (max-width: 720px) {
