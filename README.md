@@ -1,2 +1,2 @@
 # peaking-emissions-by-country
-Note: visualisation is currently using dummy data. Please do not share at present.
+WRI data suggests emissions have already ‘peaked’ in 49 countries.
